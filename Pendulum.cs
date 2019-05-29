@@ -32,7 +32,7 @@ namespace _319481CulminatingProject
         private double X0 = 350;
         private double Y0 = 60;
         private double gravity = 9.8;
-        private double time = 0.1;
+        private double time = 0.02;
 
         private Line Arm1 = new Line { StrokeThickness = 5, Stroke = Brushes.Red };
         private Line Arm2 = new Line { StrokeThickness = 5, Stroke = Brushes.Red };
